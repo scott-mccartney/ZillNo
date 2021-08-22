@@ -1,0 +1,16 @@
+{
+  "name": "ZillNo",
+  "description": "Hide homes that you aren't interested in.",
+  "version": "0.0.3",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "/images/test.png",
+    "32": "/images/test.png",
+    "48": "/images/test.png",
+    "128": "/images/test.png"
+  }
+}

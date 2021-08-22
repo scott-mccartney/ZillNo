@@ -1,1 +1,2 @@
-# ZillNo
+# ZillNo (Zillow Home Hider)
+Say "No!" to homes that you wish to hide from your Zillow searches. This will prevent homes that you've looked at and decided you do not like from showing up in your Saved Searches and any future searches.
